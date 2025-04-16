@@ -15,10 +15,3 @@ I am currently focusing on the following Python concepts and libraries:
 - **Web Development with FastAPI**: Building APIs and understanding web frameworks.
 - **Jupyter Notebooks**: Using Jupyter Notebooks for interactive coding and learning.
 
-
-
-## How to Run the Code Locally
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Adityakeshav/python-learning.git
